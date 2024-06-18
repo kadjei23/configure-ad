@@ -26,9 +26,15 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Step 1 : Created a domain Controller with the windows server and named it DC-1 by creating a VM with it's own resource group and subnet.
 <img src="https://i.imgur.com/7gcghpV.png" alt="DC-1"/>
-- Step 2
+
+
+- Step 2 : Set the domain controller's virtual NIC Private IP address to static so it doesn't change.
+
+
+
 - Step 3
 - Step 4
+- Step 5
 
 <h2>Deployment and Configuration Steps</h2>
 
