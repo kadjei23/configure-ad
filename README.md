@@ -37,8 +37,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/fHHQ3Fk.png" alt="Static"/>
 
 
+- Step 3 : Created another VM and named it client-1. Used the same Virtual network and resource group as DC-1
 
-- Step 3
+<img src="https://i.imgur.com/FR9Nrrl.png" alt="Client-1"/>
+
 - Step 4
 - Step 5
 
