@@ -57,7 +57,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Step 7: Logged into DC-1 to install Active Directory
 
-<img src="https://i.imgur.com/Oc2qt2m.png" alt="Install AD"/>
+<img src="https://i.imgur.com/LDSRBxB.png" alt="Install AD"/>
 
 - Step 8
 - Step 9
