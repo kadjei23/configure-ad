@@ -51,7 +51,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <img src="https://i.imgur.com/Onthm4F.png" alt="ICMPv4"/>
 
-- Step 6: Log back into client 1 and see if ping is now succesful
+- Step 6: Logged back into client 1 to see if ping was successful
 
 <img src="https://i.imgur.com/Oc2qt2m.png" alt="Ping"/>
 
