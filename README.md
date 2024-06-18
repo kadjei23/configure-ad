@@ -80,9 +80,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/z9maGMV.png" alt="Password"/>
 
 
-- Step 9
+- Step 9: RDP disconnected logged back in using a new username "boatingdomain.com\KBuser1"
 
-<img src="https://i.imgur.com/LDSRBxB.png" alt="Signed out"/>
+<img src="https://i.imgur.com/9e3AMrK.png" alt="Signed out"/>
 
 - Step 10
 
