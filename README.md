@@ -41,9 +41,19 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <img src="https://i.imgur.com/FR9Nrrl.png" alt="Client-1"/>
 
-- Step 4
-Logged into client-1 with RDP to ping to DC-1
-- Step 5
+- Step 4 : Logged into client-1 with RDP to ping to DC-1's private IP address
+
+<img src="https://i.imgur.com/fHNPBRI.png" alt="Ping"/>
+
+- Step 5: Logged in to DC-1 and enabled ICMPv4
+
+<img src="https://i.imgur.com/kOnccq6.png" alt="wf.msc"/>
+
+- Step 6
+- Step 7
+- Step 8
+- Step 9
+- Step 10
 
 <h2>Deployment and Configuration Steps</h2>
 
