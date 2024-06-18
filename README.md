@@ -42,6 +42,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/FR9Nrrl.png" alt="Client-1"/>
 
 - Step 4
+Logged into client-1 with RDP to ping to DC-1
 - Step 5
 
 <h2>Deployment and Configuration Steps</h2>
