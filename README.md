@@ -71,18 +71,19 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <img src="https://i.imgur.com/L47tIaI.png" alt="Install selection"/>
 
-<img src="https://i.imgur.com/LDSRBxB.png" alt="Install AD"/>
+- Step 8: Promoted server as a domain controller and set up a new forest as boatingdomain.com with a password.
 
-<img src="https://i.imgur.com/LDSRBxB.png" alt="Install AD"/>
+<img src="https://i.imgur.com/QvXc7Lj.png" alt="Promote"/>
 
-<img src="https://i.imgur.com/LDSRBxB.png" alt="Install AD"/>
+<img src="https://i.imgur.com/OakTu5f.png" alt="Domain"/>
 
-<img src="https://i.imgur.com/LDSRBxB.png" alt="Install AD"/>
+<img src="https://i.imgur.com/z9maGMV.png" alt="Password"/>
 
-<img src="https://i.imgur.com/LDSRBxB.png" alt="Install AD"/>
 
-- Step 8
 - Step 9
+
+<img src="https://i.imgur.com/LDSRBxB.png" alt="Signed out"/>
+
 - Step 10
 
 <h2>Deployment and Configuration Steps</h2>
