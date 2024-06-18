@@ -59,6 +59,28 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <img src="https://i.imgur.com/LDSRBxB.png" alt="Install AD"/>
 
+<img src="https://i.imgur.com/dMxRKRB.png" alt="Add roles"/>
+
+<img src="https://i.imgur.com/g5OMpm3.png" alt="Hit Next"/>
+
+<img src="https://i.imgur.com/NUNuMhD.png" alt="BYB"/>
+
+<img src="https://i.imgur.com/NUNuMhD.png" alt="Role based"/>
+
+<img src="https://i.imgur.com/LDSRBxB.png" alt="Install AD"/>
+
+<img src="https://i.imgur.com/LDSRBxB.png" alt="Install AD"/>
+
+<img src="https://i.imgur.com/LDSRBxB.png" alt="Install AD"/>
+
+<img src="https://i.imgur.com/LDSRBxB.png" alt="Install AD"/>
+
+<img src="https://i.imgur.com/LDSRBxB.png" alt="Install AD"/>
+
+<img src="https://i.imgur.com/LDSRBxB.png" alt="Install AD"/>
+
+<img src="https://i.imgur.com/LDSRBxB.png" alt="Install AD"/>
+
 - Step 8
 - Step 9
 - Step 10
