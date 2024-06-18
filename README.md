@@ -30,6 +30,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Step 2 : Set the domain controller's virtual NIC Private IP address to static so it doesn't change.
 
+<img src="https://i.imgur.com/LvDGadF.png" alt="Network Settings"/>
+
+<img src="https://i.imgur.com/ZmJmKfY.png" alt="IP Config"/>
+
+<img src="https://i.imgur.com/fHHQ3Fk.png" alt="Static"/>
+
 
 
 - Step 3
