@@ -24,7 +24,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
+- Step 1 : Created a domain Controller and named it DC-1 by creating a VM with it's own resource group and subnet.
+<img src="https://i.imgur.com/7gcghpV.png" alt="DC-1"/>
 - Step 2
 - Step 3
 - Step 4
