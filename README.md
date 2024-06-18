@@ -49,6 +49,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <img src="https://i.imgur.com/kOnccq6.png" alt="wf.msc"/>
 
+<img src="https://i.imgur.com/z7XWD1m.png" alt="ICMPv4"/>
+
 - Step 6
 - Step 7
 - Step 8
