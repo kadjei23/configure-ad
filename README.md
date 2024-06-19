@@ -106,8 +106,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <img src="https://i.imgur.com/96c6oHO.png" alt="JW"/>
 
+- Step 13: Joined client-1 to boatingdomain.com from azure by changing client-1's DNS settings to DC-1'S private IP address.
 
-- Step 13
+<img src="https://i.imgur.com/q95RpeP.png" alt="C-1"/>
+
+<img src="https://i.imgur.com/VVvyhNb.png" alt="NIC"/>
+
 - Step 14
 - Step 15
 - Step 16
