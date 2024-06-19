@@ -119,8 +119,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/0IRtzeJ.png" alt="Restart"/>
 
 
-- Step 15
-- Step 16
+- Step 15: Logged back into client-1 and ipconfig all/ to make sure client-1 has the same DNS server as DC-1
+
+<img src="https://i.imgur.com/0IRtzeJ.png" alt="Restart"/>
+
+
+- Step 16:
 - Step 17
 - Step 18
 - Step 19
