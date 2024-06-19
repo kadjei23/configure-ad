@@ -138,6 +138,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <img src="https://i.imgur.com/evxAaVk.png" alt="welcome"/>
 
+<img src="https://i.imgur.com/UouBmhr.png" alt="Restart pt-2"/>  Restarted client-1
+
 
 - Step 17
 - Step 18
