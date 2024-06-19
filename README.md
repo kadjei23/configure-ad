@@ -92,8 +92,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <img src="https://i.imgur.com/Oyh6qyd.png" alt="_EMPLOYEES"/>
 
-- Step 11
-<img src="https://i.imgur.com/9e3AMrK.png" alt="Signed out"/>
+- Step 11: Created a user named John wick with the username john_admin and added john_admin to the doman admins security group
+
+<img src="https://i.imgur.com/cPR1hGW.png" alt="John_Wick"/>
 
 <img src="https://i.imgur.com/9e3AMrK.png" alt="Signed out"/>
 
