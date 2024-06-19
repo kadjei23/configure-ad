@@ -176,14 +176,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <img src="https://i.imgur.com/GN3983H.png" alt="Refresh-user"/>
 
-<img src="https://i.imgur.com/nas9M2J.png" alt="Domain"/>
+- Step 24: Picked a random user and logged out of client one then logged in with the picked user
 
-<img src="https://i.imgur.com/nas9M2J.png" alt="Domain"/>
+<img src="https://i.imgur.com/k33F3UK.png" alt="Random-user"/>
 
-<img src="https://i.imgur.com/nas9M2J.png" alt="Domain"/>
+<img src="https://i.imgur.com/up40YbP.png" alt="welcome-dohu"/>
 
-- Step 24
-- Step 25
 
 <h2>Deployment and Configuration Steps</h2>
 
