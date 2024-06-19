@@ -134,9 +134,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <img src="https://i.imgur.com/QsmUNI8.png" alt="boating"/>
 
-<img src="https://i.imgur.com/D2PNk1Q.png" alt="System"/>
+<img src="https://i.imgur.com/RgoQrXt.png" alt="username"/>  Entered domain username "john_wick@boatingdomain.com"
 
-<img src="https://i.imgur.com/D2PNk1Q.png" alt="System"/>
+<img src="https://i.imgur.com/evxAaVk.png" alt="welcome"/>
 
 
 - Step 17
