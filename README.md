@@ -124,7 +124,21 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/4ZFh71M.png" alt="IP-Config"/>
 
 
-- Step 16:
+- Step 16: Joined client-1 to boatingdomain.com
+
+<img src="https://i.imgur.com/D2PNk1Q.png" alt="System"/>
+
+<img src="https://i.imgur.com/7Js6iym.png" alt="rename-advanced"/>
+
+<img src="https://i.imgur.com/CDbiwjG.png" alt="change-domain"/>
+
+<img src="https://i.imgur.com/QsmUNI8.png" alt="boating"/>
+
+<img src="https://i.imgur.com/D2PNk1Q.png" alt="System"/>
+
+<img src="https://i.imgur.com/D2PNk1Q.png" alt="System"/>
+
+
 - Step 17
 - Step 18
 - Step 19
