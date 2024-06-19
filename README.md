@@ -166,7 +166,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Step 21: Ran Script
 
-<img src="https://i.imgur.com/nas9M2J.png" alt="Domain"/>
+<img src="https://i.imgur.com/9tZOL7N.png" alt="RUN"/>
 
 <img src="https://i.imgur.com/nas9M2J.png" alt="Domain"/>
 
