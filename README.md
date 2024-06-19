@@ -144,7 +144,16 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <img src="https://i.imgur.com/hW7uvHe.png" alt="log-in"/>
 
-- Step 18
+- Step 18: Opened system properties --> Remote desktop --> allow domain users to access remote desktop
+
+<img src="https://i.imgur.com/Sw8tr47.png" alt="RDP"/>
+
+<img src="https://i.imgur.com/0YotoMy.png" alt="add"/>
+
+<img src="https://i.imgur.com/Ur63jK2.png" alt="check-names"/>
+
+<img src="https://i.imgur.com/nas9M2J.png" alt="Domain"/>
+
 - Step 19
 - Step 20
 - Step 21
