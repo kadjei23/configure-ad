@@ -172,7 +172,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <img src="https://i.imgur.com/GN3983H.png" alt="Refresh-user"/>
 
-- Step 24: Picked a random user and logged out of client one then logged in with the picked user
+- Step 24: Picked a random user and logged out of client-1 then logged in with the picked user
 
 <img src="https://i.imgur.com/k33F3UK.png" alt="Random-user"/>
 
