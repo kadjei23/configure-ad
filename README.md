@@ -84,7 +84,21 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <img src="https://i.imgur.com/9e3AMrK.png" alt="Signed out"/>
 
-- Step 10
+- Step 10: Created two organizational units named _EMPLOYEES and _ADMINS through active directory users and computers.
+
+<img src="https://i.imgur.com/HL5TgUz.png" alt="ADUC"/>
+
+<img src="https://i.imgur.com/xJaotSp.png" alt="OU"/>
+
+<img src="https://i.imgur.com/Oyh6qyd.png" alt="_EMPLOYEES"/>
+
+- Step 11
+<img src="https://i.imgur.com/9e3AMrK.png" alt="Signed out"/>
+
+<img src="https://i.imgur.com/9e3AMrK.png" alt="Signed out"/>
+
+<img src="https://i.imgur.com/9e3AMrK.png" alt="Signed out"/>
+- Step 12
 
 <h2>Deployment and Configuration Steps</h2>
 
