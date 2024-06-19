@@ -154,7 +154,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <img src="https://i.imgur.com/nas9M2J.png" alt="Powershell ISE"/>
 
-- Step 20: Created new file and pasted script for generated usersnames
+- Step 20: Created new file and pasted script for generated usernames
 
 <img src="https://i.imgur.com/LmuFqh0.png" alt="File-New"/>
 
