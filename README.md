@@ -96,7 +96,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <img src="https://i.imgur.com/cPR1hGW.png" alt="John_Wick"/>
 
-<img src="https://i.imgur.com/9e3AMrK.png" alt="Signed out"/>
+<img src="https://i.imgur.com/bSqth5e.png" alt="Properties"/>
 
 <img src="https://i.imgur.com/9e3AMrK.png" alt="Signed out"/>
 - Step 12
