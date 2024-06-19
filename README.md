@@ -102,7 +102,24 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <img src="https://i.imgur.com/UdrLg8t.png" alt="added"/>
 
-- Step 12
+- Step 12: Logged out of DC-1 and used john wick as an admin with the log in john_wick@boatingdomain.com
+
+<img src="https://i.imgur.com/96c6oHO.png" alt="JW"/>
+
+
+- Step 13
+- Step 14
+- Step 15
+- Step 16
+- Step 17
+- Step 18
+- Step 19
+- Step 20
+- Step 21
+- Step 22
+- Step 23
+- Step 24
+- Step 25
 
 <h2>Deployment and Configuration Steps</h2>
 
