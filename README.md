@@ -168,7 +168,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <img src="https://i.imgur.com/9tZOL7N.png" alt="RUN"/>
 
-<img src="https://i.imgur.com/nas9M2J.png" alt="Domain"/>
+- Step 22: Watched as powershell generated 10,000 new users with Different usernames but same password.
+
+<img src="https://i.imgur.com/Faje0EY.png" alt="User"/>
 
 <img src="https://i.imgur.com/nas9M2J.png" alt="Domain"/>
 
