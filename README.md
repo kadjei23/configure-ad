@@ -112,6 +112,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <img src="https://i.imgur.com/VVvyhNb.png" alt="NIC"/>
 
+<img src="https://i.imgur.com/11qiQpN.png" alt="DNS"/>
+
 - Step 14
 - Step 15
 - Step 16
