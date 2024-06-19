@@ -140,8 +140,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <img src="https://i.imgur.com/UouBmhr.png" alt="Restart pt-2"/>  Restarted client-1
 
+- Step 17: Logged in to client 1 using domain username "john_wick@boatingdomain.com"
 
-- Step 17
+<img src="https://i.imgur.com/hW7uvHe.png" alt="log-in"/>
+
 - Step 18
 - Step 19
 - Step 20
