@@ -154,9 +154,30 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <img src="https://i.imgur.com/nas9M2J.png" alt="Domain"/>
 
-- Step 19
-- Step 20
-- Step 21
+- Step 19: Logged into DC-1 as "john_wick@boatingdomain.com" and ran poweshell ISE as administrator.
+
+<img src="https://i.imgur.com/nas9M2J.png" alt="Powershell ISE"/>
+
+- Step 20: Created new file and pasted script for generated usersnames
+
+<img src="https://i.imgur.com/LmuFqh0.png" alt="File-New"/>
+
+<img src="https://i.imgur.com/i6aRrXZ.png" alt="Script"/>
+
+- Step 21: Ran Script
+
+<img src="https://i.imgur.com/nas9M2J.png" alt="Domain"/>
+
+<img src="https://i.imgur.com/nas9M2J.png" alt="Domain"/>
+
+<img src="https://i.imgur.com/nas9M2J.png" alt="Domain"/>
+
+<img src="https://i.imgur.com/nas9M2J.png" alt="Domain"/>
+
+<img src="https://i.imgur.com/nas9M2J.png" alt="Domain"/>
+
+<img src="https://i.imgur.com/nas9M2J.png" alt="Domain"/>
+
 - Step 22
 - Step 23
 - Step 24
