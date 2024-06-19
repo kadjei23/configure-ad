@@ -116,7 +116,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Step 14: Restarted Client 1 after changing to private IP Address.
 
-<img src="https://imgur.com/a/7DFv0sd" alt="Restart"/>
+<img src="https://imgur.com/a/7DFv0sd.png" alt="Restart"/>
 
 
 - Step 15
